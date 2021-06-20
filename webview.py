@@ -21,7 +21,7 @@
 #    For api>27   http://  gives net::ERR_CLEARTEXT_NOT_PERMITTED 
 #    This is Android implemented behavior.
 #
-# Source https://github.com/RobertFlatt/Android-for-Python/webview
+# Source https://github.com/Android-for-Python/Webview-Example
 
 from kivy.uix.modalview import ModalView
 from kivy.clock import Clock
